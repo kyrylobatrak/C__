@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(C__
 
-        myself/10-14/t10.13.cpp
+        myself/10-14/ex3.cpp
 
 
 )
