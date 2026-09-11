@@ -5,6 +5,5 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(C__
 
-        myself/19-21/ex2.cpp
 
 )
